@@ -1,2 +1,2 @@
 # christmas-lights
-Christmas lights with a Raspberry Pi.
+Christmas lights for Raspberry Pi.
