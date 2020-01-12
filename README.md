@@ -9,5 +9,6 @@ Christmas lights for Raspberry Pi.
 ## Technologies
 ## Component list
 ## Wiring diagram
+![](christmaslights_bb.png)
 ## Installing
 ## License
