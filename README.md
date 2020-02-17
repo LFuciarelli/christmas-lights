@@ -5,6 +5,7 @@ Christmas lights for Raspberry Pi.
 * [Component list](#component-list)
 * [Wiring diagram](#wiring-diagram)
 * [Installing](#installing)
+* [Support material](#support-material)
 * [License](#license)
 ## Technologies
 - Python3
@@ -20,4 +21,5 @@ Christmas lights for Raspberry Pi.
 ## Wiring diagram
 ![](christmaslights_bb.png)
 ## Installing
+## Support material
 ## License
