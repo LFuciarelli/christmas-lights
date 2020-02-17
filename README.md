@@ -1,5 +1,5 @@
 # Christmas lights
-Christmas lights for Raspberry Pi.
+Christmas lights for Raspberry Pi :christmas_tree:.
 ## Table of contents
 * [Technologies](#technologies)
 * [Component list](#component-list)
