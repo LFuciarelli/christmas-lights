@@ -34,4 +34,4 @@ If you do not know how to use the command line, you can download the project in 
 
 [RPi.GPIO library wiki](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/)
 ## License
-This project is licensed under the MIT License - open the [LICENSE.md](https://github.com/LFuciarelli/christmas-lights/blob/master/LICENSE) file for more details
+This project is licensed under the MIT License - open the [LICENSE.md](https://github.com/LFuciarelli/christmas-lights/blob/master/LICENSE.md) file for more details
