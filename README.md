@@ -24,5 +24,5 @@ Christmas lights for Raspberry Pi.
 ## Support material
 [GPIO pinout guide for the Raspberry Pi](https://pinout.xyz/) (You can also open the terminal and run the command "pinout")
 
-[RPi.GPIO Wiki](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/)
+[RPi.GPIO library wiki](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/)
 ## License
