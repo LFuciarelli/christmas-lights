@@ -26,3 +26,4 @@ Christmas lights for Raspberry Pi.
 
 [RPi.GPIO library wiki](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/)
 ## License
+This project is licensed under the MIT License - open the [LICENSE](https://github.com/LFuciarelli/christmas-lights/blob/master/LICENSE) file for more details
