@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/license/LFuciarelli/christmas-lights)
 # Christmas lights
 Christmas lights for Raspberry Pi :christmas_tree:.
 ## Table of contents
